@@ -5,13 +5,13 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]'/>
-        <title>$LIST >> $UBAH_TITLE : SMK NIBA Business School</title>
-        <meta name="description" content="$LIST $UBAH_DESK SMK NIBA (National Institute of Business Administration)  adalah SMK Swasta di kota Bogor dengan fokus mencetak lulusan yang Tangguh, Siap Kerja serta tetap berpegang teguh pada nilai – nilai religius"/>
+        <title>$LIST : $UBAH_TITLE</title>
+        <meta name="description" content="$LIST $UBAH_DESK"/>
         <meta name="robots" content="index, follow"/>
         <meta name="og:url" content="$UBAH_URL$LIST/"/>
-        <meta name="og:title" content="$LIST >> $UBAH_TITLE : SMK NIBA Business School"/>
+        <meta name="og:title" content="$LIST : $UBAH_TITLE"/>
         <meta name="og:type" content="product"/>
-        <meta name="og:description" content="$LIST $UBAH_DESK SMK NIBA (National Institute of Business Administration)  adalah SMK Swasta di kota Bogor dengan fokus mencetak lulusan yang Tangguh, Siap Kerja serta tetap berpegang teguh pada nilai – nilai religius"/>
+        <meta name="og:description" content="$LIST $UBAH_DESK"/>
         <meta name="og:image" content="$UBAH_IMG"/>
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -58,7 +58,7 @@
                 }
             }</style>
 
-        <script type="text/javascript">var timings={start:Date.now()};var dataLayer=window.dataLayer||[];var pdpTrackingData='{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"$UBAH_IMG","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"$LIST >> $UBAH_TITLE : SMK NIBA Business School","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=false;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:false,v_voya:false});}catch(e){if(window.console){console.log(e);}}var siteNameForApluPluginLoader="Lazada";</script>
+        <script type="text/javascript">var timings={start:Date.now()};var dataLayer=window.dataLayer||[];var pdpTrackingData='{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"$UBAH_IMG","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"$LIST : $UBAH_TITLE","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=false;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:false,v_voya:false});}catch(e){if(window.console){console.log(e);}}var siteNameForApluPluginLoader="Lazada";</script>
 
         <!-- csrf -->
         <meta name="X-CSRF-TOKEN" id="X-CSRF-TOKEN" content="eb3380311eeee"/>
@@ -352,13 +352,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "$LIST >> $UBAH_TITLE : SMK NIBA Business School",
+                "name": "$LIST : $UBAH_TITLE",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "$UBAH_URL$LIST/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "$LIST $UBAH_DESK SMK NIBA (National Institute of Business Administration)  adalah SMK Swasta di kota Bogor dengan fokus mencetak lulusan yang Tangguh, Siap Kerja serta tetap berpegang teguh pada nilai – nilai religius",
+                "description": "$LIST $UBAH_DESK",
                 "url": "https:/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -413,7 +413,7 @@
                         "position": 5,
                         "item": {
                             "@id": "$UBAH_URL$LIST/",
-                            "name": "$LIST >> $UBAH_TITLE : SMK NIBA Business School"
+                            "name": "$LIST : $UBAH_TITLE"
                         }
                     }
                 ]
@@ -2814,7 +2814,7 @@
                                 </li>
                                 <li class="breadcrumb_item">
                                     <span class="breadcrumb_item_text">
-                                        <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">$LIST >> $UBAH_TITLE : SMK NIBA Business School</span>
+                                        <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">$LIST : $UBAH_TITLE</span>
                                     </span>
                                 </li>
                             </ul>
@@ -2854,7 +2854,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">$LIST >> $UBAH_TITLE : SMK NIBA Business School</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">$LIST : $UBAH_TITLE</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -2934,7 +2934,7 @@
                                         </div>
 
                                         <div class="pdp-product-price" bis_skin_checked="1">
-                                            <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp 138.303,-</span>
+                                            <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp 368.303,-</span>
                                             <div class="origin-block" bis_skin_checked="1">
                                                 <span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp 1.383.030,-</span><span class="pdp-product-price__discount">-90%</span>
                                             </div>
